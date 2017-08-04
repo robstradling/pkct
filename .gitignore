@@ -10,3 +10,5 @@
 venv/
 issues.json
 pulls.json
+lib
+draft-strad-trans-pkct.xml
